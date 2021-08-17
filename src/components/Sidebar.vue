@@ -168,7 +168,7 @@
 import MenuItem from '@/components/MenuItem.vue';
 
 export default {
-  name: 'Home',
+  name: 'Sidebar',
   components: {
     MenuItem,
   },
